@@ -1,0 +1,1 @@
+word_list = ["dog", "candy", "edison", "smart", "dumb", "white", "black", "tigers", "field", "person"]
